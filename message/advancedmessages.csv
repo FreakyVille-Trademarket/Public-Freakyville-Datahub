@@ -1,0 +1,6 @@
+messageBegin,messageEnd,eventMessage
+| FV-PRISON | VAGT-ALARM:,har haft fingrene i Vagt-Vaulten i C!,C_GUARD_VAULT_START
+VAGT-ALARM:,har stjålet inventar fra Vagt-Huset B!,B_GUARD_VAULT_START
+VAGT-ALARM:,prøver at bryde pengeskabet op i banken i B+ Området!,B_PLUS_GUARD_VAULT_START
+VAGT-ALARM:,forsøger at røve vagternes værdi-boks i A!,A_GUARD_VAULT_START
+VAGT-ALARM:,prøver at bryde pengeskabet op i banken i A+ Området!,A_PLUS_GUARD_VAULT_START
