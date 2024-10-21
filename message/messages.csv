@@ -1,0 +1,6 @@
+message,eventMessage
+Røveri: Du kan først røve her igen om,C_GUARD_VAULT_UPDATE
+Røveri: Du kan først røve huset igen om,B_GUARD_VAULT_UPDATE
+Du kan først åbne pengeskabet igen om,B_PLUS_GUARD_VAULT_UPDATE
+Røveri: Du kan først røve vagten igen om,A_GUARD_VAULT_UPDATE
+Du kan først åbne pengeskabet igen om,A_PLUS_GUARD_VAULT_UPDATE
