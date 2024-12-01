@@ -1,2 +1,2 @@
-associatedServer(ALTID "PRISON"),areaPrefix(String),rangeBegin(int > 0),rangeEnd(int > 0),description,locationX(int),locationY(int),locationZ(int)
+associatedServer(ALTID 'PRISON'),areaPrefix(String),rangeBegin(int > 0),rangeEnd(int > 0),description,locationX(int),locationY(int),locationZ(int)
 PRISON,a,1,144,Grisene,724,67,200
