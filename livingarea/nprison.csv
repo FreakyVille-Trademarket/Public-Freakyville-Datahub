@@ -1,2 +1,89 @@
 associatedServer(ALTID 'PRISON'),areaPrefix(String),rangeBegin(int > 0),rangeEnd(int > 0),description,locationX(int),locationY(int),locationZ(int)
 PRISON,a,1,144,Grisene,724,67,200
+PRISON,a,200,343,Koalaerne,741,68,201
+PRISON,a,400,543,Pelikanerne,763,67,206
+PRISON,a,600,671,Bacon,763,67,214
+PRISON,a,800,935,Bamserne,763,67,228
+PRISON,a,1000,1167,Flodhestene,763,67,233
+PRISON,a,1200,1347,Skildpadderne,738,68,230
+PRISON,a,1400,1567,Tigerne,742,68,240
+PRISON,a,1600,1743,Slangerne,722,67,240
+PRISON,a,1744,1751,Cellerne i midten,771,68,220
+PRISON,apre,1,36,Gul stue,738,68,200
+PRISON,apre,37,74,Hønsene,742,68,210
+PRISON,apre,75,110,Kakerlakkerne,748,67,200
+PRISON,apre,111,150,Kyllingerne,739,68,210
+PRISON,apre,151,230,Aberne,763,67,211
+PRISON,apre,231,260,Æslerne,741,68,230
+PRISON,apre,261,310,Ænderne,749,67,240
+PRISON,apre,347,382,Rød stue,725,67,240
+PRISON,apre,311,346,Ulvene,736,67,258
+PRISON,apre,383,392,Casinogang #1 (BJØRNENE),757,67,168
+PRISON,apre,393,402,Casinogang #2 (Pandaerne),779,67,167
+PRISON,apre,403,412,Casinogang #3 (Koalaerne),801,67,168
+PRISON,apre,413,422,VVgang #3 (Isbjørnene),801,67,272
+PRISON,apre,423,432,VVgang #2 (Bubbibjørnene),779,67,273
+PRISON,apre,433,442,VVgang #1 (Hulebjørnene),757,67,273
+PRISON,apre,443,454,Security cellerne,849,67,212
+PRISON,apre,25086,25086,Bande-Område Celle #1,827,67,282
+PRISON,apre,25333,25333,Bande-Område Celle #2,823,67,283
+PRISON,tpre,1,19,Gammel Titangang,715,62,198
+PRISON,tpre,20,24,Titan celler v. VV,798,67,264
+PRISON,tpre,25,31,Titan celler v. Casino,788,67,177
+PRISON,fc,1,50,Gederne (F-Coin),739,68,240
+PRISON,fc,66,105,Gederne (F-Coin),739,68,240
+PRISON,ayt,10,10,YT-Celle Vaskeriet,838,67,262
+PRISON,ayt,1,6,Mini-YT celler i Hønsene,742,70,210
+PRISON,ayt,12,12,YT-Celle Casino,714,67,189
+PRISON,fc,51,53,Røde A+ Lejligheder,609,69,188
+PRISON,fc,305,307,Grønne A+ Lejligheder,629,69,188
+PRISON,fc,308,310,Gule A+ Lejligheder,639,68,188
+PRISON,fc,326,326,Tankstations Cellen (Slyqnn's),672,65,217
+PRISON,fc,320,325,Lejlighederne v. Tankstationen,669,67,204
+PRISON,fc,312,313,Huse v. politistationen,605,65,253
+PRISON,fc,302,304,Huse v. politistationen,637,65,230
+PRISON,fc,314,319,Huse v. togstationen,578,65,285
+PRISON,fc,311,311,Hus v. Bande-Område,675,65,255
+PRISON,fc,300,301,Hus v. Bande-Område,651,65,288
+PRISON,b,1,285,Sort Portal,-77,66,684
+PRISON,b,286,494,Hvid cellegang,-71,68,-721
+PRISON,b,495,718,Portal #1,-5,67,-718
+PRISON,b,1055,1055,Portal #9,-12,66,-653
+PRISON,b,1057,1111,Portal #9,-12,66,-653
+PRISON,b,1113,1166,Portal #9,-12,66,-653
+PRISON,b,1167,1437,Portal #2,0,67,-718
+PRISON,b,1438,1661,Portal #8,-53,66,-653
+PRISON,b,1662,1670,Oven over Vagtstuen,-50,77,-721
+PRISON,b,1671,1717,Bag Minerne,5,77,-697
+PRISON,b,1718,1740,Sort Portal (Bag væggen),-77,66,684
+PRISON,b,1741,1764,Bande-Området,-70,67,-832
+PRISON,bk,1,30,Kloakken,-101,66,-586
+PRISON,bpre,1,180,Under Sort Portal,-77,66,684
+PRISON,bpre,101,230,Under Sort Portal,-77,66,684
+PRISON,bpre,231,338,Portal #1,-5,67,-718
+PRISON,bpre,533,637,Portal #3,3,67,-716
+PRISON,bpre,638,734,Portal #4,-6,66,-670
+PRISON,bpre,735,831,Portal #5,-22,66,-653
+PRISON,bpre,832,928,Portal #6,-48,66,-653
+PRISON,bpre,929,1025,Portal #7,-58,66,-653
+PRISON,fcb,1,96,F-Coin Portalen,-75,66,-698
+PRISON,fcb,97,103,Huse v. Banken,48,66,-422
+PRISON,fcb,104,106,Huse v. Banken,-3,66,-429
+PRISON,fcb,107,107,Huse bagved Banken,29,66,-447
+PRISON,fcb,108,115,B+ Lejligheder,-32,67,-506
+PRISON,byt,1,2,YT-Celler Fitness,17,67,-641
+PRISON,tbpre,1,9,Titancellerne,-42,63,-690
+PRISON,c,1,96,Cellegang #1,98,68,-39
+PRISON,c,97,192,Cellegang #2,42,68,-5
+PRISON,c,193,288,Cellegang #3,16,68,-39
+PRISON,c,289,384,Cellegang #4,16,68,-105
+PRISON,c,385,480,Cellegang #5,42,68,-139
+PRISON,c,481,576,Cellegang #6,98,68,-105
+PRISON,c,578,673,Cellegangen under casino,53,67,-144
+PRISON,c,1250,1537,Midteportalen til venstre,42,67,-68
+PRISON,c,1826,2114,Portalen ved Mogens-Vagt,54,67,-34
+PRISON,c,2115,2132,Kloaken ved Mogens-Vagt,75,62,-12
+PRISON,c,2133,2156,Kloaken ved casino,19,65,-131
+PRISON,cpre,1,384,(Donator)Midteportalen til højre,42,67,-76
+PRISON,cyt,1,3,Youtubecellerne t.H. fra spawn,62,67,-143
+PRISON,cyt,4,6,Youtubecellerne t.V. fra spawn,62,67,-1
