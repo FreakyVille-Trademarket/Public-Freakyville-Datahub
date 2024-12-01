@@ -1,1 +1,1 @@
-
+associatedServer (ALTID "PRISON"),areaPrefix (String),rangeBegin (int > 0),rangeEnd (int > 0),description,locationX (int),locationY (int),locationZ (int)
