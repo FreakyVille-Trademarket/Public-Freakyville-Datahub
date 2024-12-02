@@ -25,6 +25,7 @@ PRISON,apre,413,422,VVgang #3 (Isbjørnene),801,67,272
 PRISON,apre,423,432,VVgang #2 (Bubbibjørnene),779,67,273
 PRISON,apre,433,442,VVgang #1 (Hulebjørnene),757,67,273
 PRISON,apre,443,454,Security cellerne,849,67,212
+PRISON,apre,455,470,Kloakken,739,35,200
 PRISON,apre,25086,25086,Bande-Område Celle #1,827,67,282
 PRISON,apre,25333,25333,Bande-Område Celle #2,823,67,283
 PRISON,tpre,1,19,Gammel Titangang,715,62,198
@@ -57,7 +58,7 @@ PRISON,b,1662,1670,Oven over Vagtstuen,-50,77,-721
 PRISON,b,1671,1717,Bag Minerne,5,77,-697
 PRISON,b,1718,1740,Sort Portal (Bag væggen),-77,66,684
 PRISON,b,1741,1764,Bande-Området,-70,67,-832
-PRISON,bk,1,30,Kloakken,-101,66,-586
+PRISON,bk,1,33,Kloakken,-101,66,-586
 PRISON,bpre,1,180,Under Sort Portal,-77,66,684
 PRISON,bpre,101,230,Under Sort Portal,-77,66,684
 PRISON,bpre,231,338,Portal #1,-5,67,-718
@@ -71,7 +72,7 @@ PRISON,fcb,97,103,Huse v. Banken,48,66,-422
 PRISON,fcb,104,106,Huse v. Banken,-3,66,-429
 PRISON,fcb,107,107,Huse bagved Banken,29,66,-447
 PRISON,fcb,108,115,B+ Lejligheder,-32,67,-506
-PRISON,byt,1,2,YT-Celler Fitness,17,67,-641
+PRISON,byt,1,3,YT-Celler Fitness,17,67,-641
 PRISON,tbpre,1,9,Titancellerne,-42,63,-690
 PRISON,c,1,96,Cellegang #1,98,68,-39
 PRISON,c,97,192,Cellegang #2,42,68,-5
